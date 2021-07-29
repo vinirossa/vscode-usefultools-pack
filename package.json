@@ -1,0 +1,46 @@
+{
+    "name": "vscode-usefultools-pack",
+	"license": "MIT",
+    "displayName": "Useful Tools Extension Pack",
+    "description": "A collection of VSCode useful extensions for your development routine.",
+    "version": "1.0.0",
+	"publisher": "webyxco",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "icon": "logo.png",
+    "galleryBanner": {
+      "color": "#d0d0d0",
+      "theme": "light"
+    },
+    "keywords": [
+        "tools",
+        "useful",
+        "development",
+        "helpful",
+        "project"
+    ],
+    "repository": {
+        "url": "https://github.com/Webyx-Co/vscode-usefultools-pack"
+    },
+    "homepage": "https://github.com/Webyx-Co/vscode-usefultools-pack",
+    "bugs": {
+        "url": "https://github.com/Webyx-Co/vscode-usefultools-pack/issues"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "mathcale.theme-dracula-refined",
+        "pkief.material-icon-theme",
+        "alefragnani.project-manager",
+        "shan.code-settings-sync",
+        "ms-vsliveshare.vsliveshare",
+        "mtxr.sqltools",
+        "softwaredotcom.swdc-vscode",
+        "softwaredotcom.music-time",
+        "tariky.easy-snippet-maker",
+        "bam.vscode-file-templates",
+        "cssho.vscode-svgviewer"
+    ]
+}
