@@ -8,6 +8,7 @@ A collection of useful extensions to increase your productivity while you code, 
 #### Visual
 - [Dracula Refined](https://marketplace.visualstudio.com/items?itemName=mathcale.theme-dracula-refined)
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=pkief.material-icon-theme)
+- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 #### Tools
 - [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
 - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=shan.code-settings-sync)

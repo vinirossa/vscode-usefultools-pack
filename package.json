@@ -3,7 +3,7 @@
 	"license": "MIT",
     "displayName": "Useful Tools Extension Pack",
     "description": "A collection of VSCode useful extensions for your development routine.",
-    "version": "1.0.0",
+    "version": "1.1.0",
 	"publisher": "webyxco",
     "engines": {
         "vscode": "^1.58.0"
@@ -33,6 +33,7 @@
     "extensionPack": [
         "mathcale.theme-dracula-refined",
         "pkief.material-icon-theme",
+        "coenraads.bracket-pair-colorizer",
         "alefragnani.project-manager",
         "shan.code-settings-sync",
         "ms-vsliveshare.vsliveshare",
