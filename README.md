@@ -2,7 +2,7 @@
 
 <!-- [![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/vscode-usefultools-pack?color=success&label=Visual%20Studio%20Marketplace)](https://marketplace.visualstudio.com/items?itemName=vscode-usefultools-pack)  -->
 
-A collection of useful extensions to increase your productivity while you code, created by [Webyx Co.](https://github.com/Webyx-Co)
+A collection of useful extensions to increase your productivity while you code, created by [vinirossa](https://github.com/vinirossa)
 
 ## Included extensions
 #### Visual
@@ -27,7 +27,7 @@ To install only some of the fonts, just edit the package.json file removing the 
 ## How to develop and install locally
 - Clone the repository
 ```bash
-$ git clone https://github.com/Webyx-Co/vscode-usefultools-pack
+$ git clone https://github.com/vinirossa/vscode-usefultools-pack
 ```
 - Install vsce
 ```bash
@@ -46,4 +46,4 @@ $vsce package
 
 ## For more information
 
-* [Webyx Co. Github](https://github.com/Webyx-Co)
+* [See my Github](https://github.com/vinirossa)
