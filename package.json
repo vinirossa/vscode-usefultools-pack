@@ -4,7 +4,7 @@
     "displayName": "Useful Tools Extension Pack",
     "description": "A collection of VSCode useful extensions for your development routine.",
     "version": "1.1.0",
-	"publisher": "webyxco",
+	"publisher": "vinirossa",
     "engines": {
         "vscode": "^1.58.0"
     },
