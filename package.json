@@ -3,7 +3,7 @@
     "license": "MIT",
     "displayName": "Useful Tools Extension Pack",
     "description": "A collection of VSCode useful extensions for your development routine.",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "publisher": "vinirossa",
     "engines": {
         "vscode": "^1.58.0"
